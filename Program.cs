@@ -11,7 +11,9 @@ namespace New_Test
         static void Main(string[] args)
         {
             Subtract subtract = new Subtract();
+            AddClass add = new AddClass();
             subtract.Subtract_Num(5, 8);
+            add.Add(8, 9);
         }
     }
 }
