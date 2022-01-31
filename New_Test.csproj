@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="AddClass.cs" />
+=======
+    <Compile Include="multiply.cs" />
+>>>>>>> dd364885e1af35a94faae63646e9b0168ec021e5
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Subtract.cs" />
