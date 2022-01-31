@@ -12,6 +12,9 @@ namespace New_Test
         {
             Subtract subtract = new Subtract();
             subtract.Subtract_Num(5, 8);
+            multiply Multiply = new multiply();
+            
+            Console.WriteLine(Multiply.multiplyNum(3,2));
         }
     }
 }
