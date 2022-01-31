@@ -10,6 +10,8 @@ namespace New_Test
     {
         static void Main(string[] args)
         {
+            Subtract subtract = new Subtract();
+            subtract.Subtract_Num(5, 8);
         }
     }
 }
